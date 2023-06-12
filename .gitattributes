@@ -1,0 +1,13 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+MotionDetection_Git.sln filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+Assets/StreamingAssets/*.exe filter=lfs diff=lfs merge=lfs -text
+Assets/StramingAssets/*.exe filter=lfs diff=lfs merge=lfs -text
